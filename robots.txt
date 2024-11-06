@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uceroare.github.io/Dhw/sitemap_index.txt
+Sitemap: https://uceroare.github.io/Gpw/sitemap_index.txt
+Sitemap: https://uceroare.github.io/jom/sitemap_index.txt
+Sitemap: https://uceroare.github.io/kPU/sitemap_index.txt
